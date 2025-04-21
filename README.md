@@ -1,16 +1,13 @@
-## Hi there 👋
-
-<!--
-**0netervezer0/0netervezer0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi! I'm Netervezer!
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=swift,html,css,c,cpp,bash,python)](https://skillicons.dev)
+### Frameworks
+[![My Skills](https://skillicons.dev/icons?i=flutter,mysql,raspberrypi)](https://skillicons.dev)
+### Development For
++ Windows
++ MacOS
++ Debian, Ubuntu and Kali
++ Raspbian
++ Micro Controllers
+### About My Projects
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0netervezer0&layout=compact&theme=radical)
