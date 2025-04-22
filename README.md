@@ -1,6 +1,6 @@
 # Hi! I'm Netervezer!
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=swift,html,css,c,cpp,bash,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=swift,html,css,c,cpp,bash,dart,python)](https://skillicons.dev)
 ### Frameworks
 [![My Skills](https://skillicons.dev/icons?i=flutter,mysql,raspberrypi)](https://skillicons.dev)
 ### Development For
