@@ -10,6 +10,6 @@
 + Raspbian
 + Micro Controllers
 ### About My Projects
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0netervezer0&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0netervezer0&layout=compact)
 
 [**Look At My Most Popular Project**](https://github.com/0netervezer0/Omega-DPI-Bypass)
