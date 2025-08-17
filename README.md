@@ -5,7 +5,7 @@
 [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,obsidian,visualstudio,vscode,neovim,pytorch,qt,mysql)](https://skillicons.dev)
 ### Development For
 + Windows
-+ UNIX (Linux/macOS Scripts)
++ UNIX (Linux/macOS)
 + Micro Controllers
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0netervezer0&layout=compact&theme=dracula)
