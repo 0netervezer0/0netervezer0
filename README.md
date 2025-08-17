@@ -7,7 +7,8 @@
 + Windows
 + UNIX (Linux/macOS Scripts)
 + Micro Controllers
-  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0netervezer0&layout=compact&theme=dracula)
 
 ## Look At My Best Projects
 
