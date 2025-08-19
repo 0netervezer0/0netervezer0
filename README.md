@@ -1,8 +1,9 @@
 # Hi! I'm Netervezer!
+Fullstack-backend and hardware drivers Developer
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=go,html,css,c,cpp,bash,python,md)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,html,css,c,cpp,python,bash,md)](https://skillicons.dev)
 ### Stuff and Frameworks
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,obsidian,visualstudio,vscode,neovim,pytorch,qt,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sqlite,git,github,gitlab,obsidian,visualstudio,vscode,neovim,pytorch,mysql,qt)](https://skillicons.dev)
 ### Development For
 + Windows
 + UNIX (Linux/macOS)
