@@ -3,7 +3,9 @@ Fullstack-backend and hardware drivers Developer
 ### Languages
 [![My Skills](https://skillicons.dev/icons?i=js,ts,go,html,css,c,cpp,python,bash,md)](https://skillicons.dev)
 ### Stuff and Frameworks
-[![My Skills](https://skillicons.dev/icons?i=sqlite,git,gitlab,github,obsidian,visualstudio,vscode,pycharm,idea,neovim,nodejs,qt,pytorch,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sqlite,git,gitlab,github,obsidian,visualstudio,vscode,pycharm,idea,neovim)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,qt,pytorch,mysql)](https://skillicons.dev)
 ### Development For
 + Windows
 + UNIX (Linux/macOS)
