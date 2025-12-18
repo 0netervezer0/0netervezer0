@@ -1,4 +1,4 @@
-# Hi! I'm Netervezer!
+# Hi there!
 Fullstack-backend Developer
 ### Languages
 [![My Skills](https://skillicons.dev/icons?i=go,html,css,c,python,bash,md)](https://skillicons.dev)
