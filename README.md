@@ -1,9 +1,9 @@
 # Hi there!
 Fullstack-backend Developer
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=go,html,css,c,python,bash,md)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,c,python,bash,md)](https://skillicons.dev)
 ### Stuff and Frameworks
-[![My Skills](https://skillicons.dev/icons?i=git,gitlab,github,obsidian,visualstudio,vscode,pycharm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,gitlab,github,postgres,mysql,visualstudio,vscode,pycharm)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0netervezer0&layout=compact&theme=dracula)
 
