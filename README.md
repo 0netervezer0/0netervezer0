@@ -11,6 +11,8 @@ Fullstack-backend Developer
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0netervezer0&repo=Omega-DPI-Bypass&theme=dracula&description_lines_count=1)](https://github.com/0netervezer0/Omega-DPI-Bypass)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0netervezer0&repo=LazySVG&theme=dracula)](https://github.com/0netervezer0/LazySVG)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0netervezer0&repo=Lupi-Zsh-Addons&theme=dracula)](https://github.com/0netervezer0/Lupi-Zsh-Addons)
 ### Contact Me
 + Discord - 667758895514517504 (User ID)
